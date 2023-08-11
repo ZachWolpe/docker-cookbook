@@ -2,9 +2,9 @@
 
 Docker comprises of $3$ core components:
 
-- `Build`: The container `image` is really a universal package manager.
-- `Ship`: The Docker `registry` is a universal package repository.
-- `Run`: The Docker `container` is a universal package runtime.
+- `Build`:  The container `image` is really a universal package manager.
+- `Ship`:   The Docker `registry` is a universal package repository.
+- `Run`:    The Docker `container` is a universal package runtime.
 
 
 Benefits:
@@ -21,6 +21,15 @@ $3$ key features contribute to Docker's success:
 CI/CD Speed improvements over each decade:
 
 Mainframe --> PC/Baremetal ($1990$s) --> VMs ($2000$s) --> Data Centres --> Cloud ($2010$s) --> Containers/Serverless ($2020$s)
+
+
+### References
+
+- [Docker](https://www.docker.com/)
+- [Docker Hub](https://hub.docker.com/)
+- [OCI (Open Container Initiative) Standards](https://opencontainers.org/)
+- [Kubernetes](https://kubernetes.io/)
+
 
 ---
 ```
